@@ -1,0 +1,101 @@
+body{
+    background-color: cadetblue;
+    text-align: center;
+    color: chocolate;
+}
+.ear1{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    border-color: rgb(168, 14, 14);
+    background-color: rgb(161, 67, 130);left:250px;top: 155px;
+    position:fixed;
+}
+.ear2{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    border-color: rgb(182, 12, 12);
+    background-color: rgb(180, 77, 149);left:480px;top: 85px;
+    position:relative;
+}
+.e1{
+    width: 75px;
+    height:75px;
+     border-radius: 50%;
+    border-color: pink;
+    background-color: rgb(183, 107, 143);left:20px;top: 25px;
+    position:absolute;
+}
+.e2{
+    width: 75px;
+    height:75px;
+     border-radius: 50%;
+    border-color: #b34c1f;
+    background-color: rgb(183, 107, 143);left:10px;top: 25px;
+    position:absolute;
+}
+.face{
+    width: 300px;
+    height:300px;
+    border-radius: 50%;
+    border-color: #0f0f0f;
+    background-color: rgb(171, 75, 126);left:250px;top: 30px;
+    position:relative;
+}
+.eye1{
+    width: 75px;
+    height:75px;
+     border-radius: 50%;
+    border-color: #b3aca9;
+    background-color: rgb(190, 181, 173);left:65px;top: 85px;
+    position:absolute;
+}
+.eye2{
+    width: 75px;
+    height:75px;
+     border-radius: 50%;
+    border-color: #b3aca9;
+    background-color: rgb(190, 181, 173);left:165px;top: 85px;
+    position:absolute;
+}
+.ey1{
+    width: 45px;
+    height:47px;
+     border-radius: 100%;
+    border-color: #140b07;
+    background-color: rgb(26, 19, 12);left:15px;top: 27px;
+    position:absolute;
+}
+.ey2{
+    width: 45px;
+    height:47px;
+     border-radius: 100%;
+    border-color: #140b07;
+    background-color: rgb(26, 19, 12);left:15px;top: 27px;
+    position:absolute;
+}
+.nose{
+        width: 100px;
+        height:100px;
+         border-radius: 100%;
+        border-color: rgba(255, 192, 203, 0.731);
+        background-color: rgba(175, 94, 154, 0.687);left:100px;top: 200px;
+        position:absolute;
+}
+.n1{
+    width: 25px;
+    height:25px;
+     border-radius: 100%;
+    border-color: rgba(255, 192, 203, 0.731);
+    background-color: rgba(38, 14, 32, 0.687);left:25px;top: 50px;
+    position:absolute;
+}
+.n2{
+    width: 25px;
+    height:25px;
+     border-radius: 100%;
+    border-color: rgba(255, 192, 203, 0.731);
+    background-color: rgba(38, 14, 32, 0.687);left:58px;top: 50px;
+    position:absolute;
+}
